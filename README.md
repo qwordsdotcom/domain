@@ -32,7 +32,7 @@ Kamu cukup mengisi data berikut di link ini:
 **📌 Format pendaftaran:** 
 
 - **Nama Domain**: (contoh: yourname.web.id)
-Cek Ketersedian Domain melalui Qwords Whois: **https://qwords.info/**
+- Cek Ketersedian Domain melalui Qwords Whois: **https://qwords.info/** -
 - **Nama Lengkap**: 
 - **Alamat Email**: (untuk aktivasi domain)  
 - **WhatsApp**: (agar mudah dihubungi)  
