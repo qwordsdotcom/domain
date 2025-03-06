@@ -1,4 +1,6 @@
- 🌐 Qwords: Bantu Developer Berkembang dengan Domain Gratis! 🚀  
+ 🌐 Qwords.com: Bantu Developer Berkembang dengan Domain Gratis! 🚀  
+ ![image](https://github.com/user-attachments/assets/f4b6d167-707b-49ec-b949-b1644bff07a8)
+
 
 Halo, **developer, coder, hacker, dan builder**! 👋  
 
@@ -25,7 +27,6 @@ Klik tombol "star" di repo ini untuk menunjukkan dukunganmu ke komunitas develop
 ⚡ **2. Isi form pendaftaran** 📝  
 Kamu cukup mengisi data berikut di link ini:  
 👉 **[https://www.qwords.com/promotion/](https://www.qwords.com/promotion/)**  
-![image](https://github.com/user-attachments/assets/876a4096-8c9f-4ed3-8d79-e4864590796e)
 
 **📌 Format pendaftaran:**  
 - **Nama Domain**: (contoh: proyekkeren.web.id)  
