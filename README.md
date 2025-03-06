@@ -19,7 +19,7 @@ Sedang membangun sesuatu yang keren di GitHub? Punya proyek open-source yang bis
 💡 **Kenapa Gratis?**  
 Karena kami percaya bahwa developer hebat seperti kamu butuh dukungan! Banyak proyek open-source dan inovasi luar biasa lahir dari komunitas developer, dan kami ingin membantu dengan memberikan domain **.WEB.ID, .BIZ.ID, atau .MY.ID secara gratis!**  
 
-
+Cek Ketersedian Domain melalui Qwords Whois: **https://qwords.info/** 
 🔥 **Bagaimana Cara Mendapatkan Domain Gratis?**  
 
 ⚡ **1. Star repo ini** ⭐  
@@ -32,7 +32,6 @@ Kamu cukup mengisi data berikut di link ini:
 **📌 Format pendaftaran:** 
 
 - **Nama Domain**: (contoh: yourname.web.id)
-- Cek Ketersedian Domain melalui Qwords Whois: **https://qwords.info/** -
 - **Nama Lengkap**: 
 - **Alamat Email**: (untuk aktivasi domain)  
 - **WhatsApp**: (agar mudah dihubungi)  
