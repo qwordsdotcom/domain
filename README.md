@@ -1,6 +1,6 @@
 <h1>🌐 Qwords.com: Bantu Developer Berkembang dengan Domain Gratis! 🚀</h1>
  
- ![image](https://github.com/user-attachments/assets/f4b6d167-707b-49ec-b949-b1644bff07a8)
+<img src="https://github.com/user-attachments/assets/f4b6d167-707b-49ec-b949-b1644bff07a8" alt="image" width="300">
 
 
 Halo, **developer, coder, hacker, dan builder**! 👋  
