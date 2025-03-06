@@ -29,9 +29,11 @@ Klik tombol "star" di repo ini untuk menunjukkan dukunganmu ke komunitas develop
 Kamu cukup mengisi data berikut di link ini:  
 👉 **[https://www.qwords.com/promotion/](https://www.qwords.com/promotion/)**  
 
-**📌 Format pendaftaran:**  
-- **Nama Domain**: (contoh: proyekkeren.web.id)  
-- **Nama Lengkap**: (sesuai KTP)  
+**📌 Format pendaftaran:** 
+
+- **Nama Domain**: (contoh: yourname.web.id)
+Cek Ketersedian Domain melalui Qwords Whois: **https://qwords.info/**
+- **Nama Lengkap**: 
 - **Alamat Email**: (untuk aktivasi domain)  
 - **WhatsApp**: (agar mudah dihubungi)  
 - **Akun GitHub**: (cukup isi form di link di atas)  
@@ -44,8 +46,7 @@ Sekarang proyekmu bisa diakses dengan domain profesional. Tidak perlu lagi mengg
 
 
 🎯 **Syarat & Ketentuan (Simpel & Mudah! 🤙)**  
-
-✅ **Proyek harus ada di GitHub** (open-source lebih diprioritaskan).  
+  
 ✅ **Domain ini hanya untuk proyek bermanfaat**, bukan untuk jualan/judi/spam.  
 ✅ **1 domain per orang/proyek** agar semua kebagian.  
 ✅ **Berlaku selama persediaan masih ada!**  
